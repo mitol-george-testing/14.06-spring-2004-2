@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intermediate Macroeconomic Theory",
+  "course_description": "This course is a survey of modern macroeconomics at a quite advanced level. Topics include the neoclassical growth model, overlapping generations, endogenous growth models, business cycles, incomplete nominal adjustment, incomplete financial markets, fiscal and monetary policy, consumption and savings, and unemployment. The course is also an introduction to the mathematical tools used in modern macroeconomics, including dynamic systems, optimal control, and dynamic programming.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.06",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
